@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a network automation engineer.<br><br>Working on:<br>https://github.com/dvlunel/ios_xe_ztp
+I'm a network automation engineer.
 
 
 ## 🌐 Socials:
